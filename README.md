@@ -1,4 +1,4 @@
-# FUD (Fully UnDetectable)
+# FUD (Fully UnDetectable. Bypasses all modern antivirus protections)
 
 #Disclaimer Educational Purposes Only
 
