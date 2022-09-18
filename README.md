@@ -97,6 +97,11 @@
 
 ### Installation
 
+*Required
+<p><a href="https://github.com/fireorb/Metasploit-Framework-on-AWS-Ubuntu">You need install Metasploit Framework</a></p>
+
+
+
 1. Clone the repo
    ```sh
    git clone https://github.com/fireorb/FUD.git
