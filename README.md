@@ -84,6 +84,7 @@
 ### Built With
 
 * [Bash](https://www.gnu.org/software/bash/)
+* [Python](https://www.python.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
