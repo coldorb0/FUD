@@ -41,7 +41,7 @@
     <a href="https://github.com/fireorb/FUD"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/fireorb/FUD">View Demo</a>
+    <a href="https://youtu.be/Ej-m6N1jgts">View Demo</a>
     ·
     <a href="https://github.com/fireorb/FUD/issues">Report Bug</a>
     ·
@@ -80,7 +80,7 @@
 [![Product Name Screen Shot][product-screenshot1]](https://www.virustotal.com/gui/file/6c0cfa6bf583e3b0df7e4f4603375a0ae1bf39be2abab4173e7ba46f09d481f9/summary)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-###Watch the Video
+### Watch the Video
 [![Watch the video](images/FUD.jpg)](https://youtu.be/hSw9xZ7jw1E)
 
 ### Built With
