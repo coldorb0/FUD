@@ -139,4 +139,4 @@ Project Link: [https://github.com/fireorb/FUD](https://github.com/fireorb/FUD)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rizaldy-christoffel-66b064162
 [product-screenshot]: images/result.jpg
-[product-screenshot1]: images/result.jpg
+[product-screenshot1]: images/result1.jpg
