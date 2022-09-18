@@ -133,15 +133,15 @@ Project Link: [https://github.com/fireorb/FUD](https://github.com/fireorb/FUD)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/fireorb/How-to-install-Webmin-on-Ubuntu-AWS/graphs/contributors
+[contributors-url]: https://github.com/fireorb/FUD/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/fireorb/How-to-install-Webmin-on-Ubuntu-AWS/network/members
+[forks-url]: https://github.com/fireorb/FUD/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/fireorb/How-to-install-Webmin-on-Ubuntu-AWS/stargazers
+[stars-url]: https://github.com/fireorb/FUD/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/fireorb/How-to-install-Webmin-on-Ubuntu-AWS/issues
+[issues-url]: https://github.com/fireorb/FUD/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/fireorb/How-to-install-Webmin-on-Ubuntu-AWS/blob/master/LICENSE.txt
+[license-url]: https://github.com/fireorb/FUD/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rizaldy-christoffel-66b064162
 [product-screenshot]: images/result.jpg
