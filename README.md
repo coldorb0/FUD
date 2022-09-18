@@ -117,7 +117,7 @@
 
 Rizaldy Christoffel - [@RizaldyChristo1](https://twitter.com/RizaldyChristo1) - rizaldy@naver.com
 
-Project Link: [https://github.com/fireorb/How-to-install-Webmin-on-Ubuntu-AWS/](https://github.com/fireorb/How-to-install-Webmin-on-Ubuntu-AWS/)
+Project Link: [https://github.com/fireorb/FUD](https://github.com/fireorb/FUD)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
