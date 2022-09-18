@@ -137,5 +137,4 @@ Project Link: [https://github.com/fireorb/How-to-install-Webmin-on-Ubuntu-AWS/](
 [license-url]: https://github.com/fireorb/How-to-install-Webmin-on-Ubuntu-AWS/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rizaldy-christoffel-66b064162
-[product-screenshot]: images/Screenshot_20220918-212104_Chrome.jpg
-
+[product-screenshot]: images/Result.jpg
