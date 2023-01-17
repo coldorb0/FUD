@@ -75,6 +75,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+A fully undetectable (FUD) payload for Windows is a type of malware that is designed to evade detection by anti-virus and other security software. This can be achieved through various techniques, such as code obfuscation, encryption, and using legitimate system tools to hide the payload's presence. The goal of a FUD payload is to give an attacker a way to gain unauthorized access to a system without being detected by the victim or security tools. It is important to note that FUD payloads are illegal and can cause serious harm to the infected systems. It is always recommended to use legal tools and methods for any kind of security testing.
 
 [![Product Name Screen Shot][product-screenshot]](https://www.virustotal.com/gui/file/6c0cfa6bf583e3b0df7e4f4603375a0ae1bf39be2abab4173e7ba46f09d481f9/summary)
 [![Product Name Screen Shot][product-screenshot1]](https://www.virustotal.com/gui/file/6c0cfa6bf583e3b0df7e4f4603375a0ae1bf39be2abab4173e7ba46f09d481f9/summary)
